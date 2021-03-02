@@ -179,6 +179,19 @@ body{
     bottom: 70%;
     left: 42%;
   }
+ .about-info{
+    font-size: 1.75rem;
+  }
+
+.h3features{
+  font-size: 2.3rem;
+}
+.paragraphfeatures{
+  font-size: 1.75rem;
+}
+.menu-info{
+  font-size: 1.75;
+}
 
   .beefpho-btn{
     margin-left: 35%;
